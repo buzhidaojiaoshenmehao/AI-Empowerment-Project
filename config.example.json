@@ -1,0 +1,12 @@
+{
+  "OPENAI_API_KEY": "",
+  "OPENAI_BASE_URL": "https://api.openai.com/v1",
+  "LLM_MODEL": "gpt-4o-mini",
+  "HTTP_PROXY_ENABLED": false,
+  "HTTP_PROXY_URL": "",
+  "HTTP_VERIFY_SSL": true,
+  "FEISHU_APP_ID": "",
+  "FEISHU_APP_SECRET": "",
+  "FEISHU_WEBHOOK_SECRET": "",
+  "FEISHU_DEFAULT_CHAT_ID": ""
+}
